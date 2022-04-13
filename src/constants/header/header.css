@@ -18,3 +18,31 @@
     margin: 10px;
 }
 
+
+
+/* To mimic Link-objects */
+.header-2{
+    cursor: pointer;
+}
+
+.header-2:link {
+    color: #111D13;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  .header-2:visited {
+    color: #111D13;
+  
+  }
+  
+  /* mouse over link */
+  .header-2:hover {
+    color:#B6C197;
+  
+  }
+  
+  /* selected link */
+  .header-2:active {
+    color: #111D13;
+  }

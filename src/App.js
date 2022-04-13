@@ -25,7 +25,7 @@ function App() {
    <Router>
       <div>
           <BigName/>
-         {// <Header/>
+         {<Header/>
          }
         <div className="center-content full-width">
           <Switch>

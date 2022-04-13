@@ -9,7 +9,7 @@ const Header = () => {
         
         <div className="header full-width" style={{textAlign:"center"}}>
             {
-            //<Link to="a" style={{ textDecoration: 'none' }}><h2>a    </h2></Link>
+           // <h2 class="header-2" onClick={()=>{}}>knapp</h2>
             }
             <Link to="/" style={{ textDecoration: 'none' }}><h2>start</h2> </Link>
             {
